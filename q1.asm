@@ -1,5 +1,5 @@
 Data Segment
-	msg1 db 10,13, "Main Menu: $"
+	msg1 db 10,13, "**MAIN MENU** $"
 	msg2 db 10,13, "1. Addition $"
 	msg3 db 10,13, "2. Subtraction $"
 	msg4 db 10,13, "3. Exit $"
