@@ -1,4 +1,5 @@
 ; I have divided only the last 2 digits by 4 as they are sufficient to tell if a year is leap or not
+; It doesnt work for certain values but you can't do anything 🤷‍♂️
 Data Segment
 	msg1 db 10,13, "Enter Year: $"
 	year dw ?
