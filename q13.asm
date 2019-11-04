@@ -1,3 +1,7 @@
+; I did a simple trick for concatenation of 2 strings
+; I stored the first string from si -> 1000h
+; And then stored the next string from the last position of si, left by first string 😜
+; Also note that q13 and q21 are same except for the menu driven part
 Data Segment
 	msg db 10,13, "Enter String: $"
 	msg1 db 10,13, "MENU $"
