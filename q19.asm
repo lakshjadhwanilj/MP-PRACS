@@ -1,4 +1,4 @@
-; I have taken 1 32 bit number as 2 16 bit numbers and then performed addition
+; I have taken 1 32 bit number as 2 16 bit numbers and then performed addition 😪
 ; The lower bits addition are normal using ADD while in upper bits addition I used ADC
 
 Data Segment
